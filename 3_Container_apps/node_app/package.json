@@ -1,5 +1,6 @@
 {
-    "name": "docker-test",
+    "name": "@lynnlangit/docker-test",
+    "repository": "git://github.com/lynnlangit/docker-test.git",
     "version": "1.0.0",
     "description": "example package for demo",
     "main": "server.js",
