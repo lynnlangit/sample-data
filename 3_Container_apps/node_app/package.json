@@ -1,4 +1,6 @@
 {
+    "name": "@lynnlangit/test",
+    "repository": "git://github.com/lynnlangit/test.git",
     "version": "1.0.0",
     "description": "example package for demo",
     "main": "server.js",
