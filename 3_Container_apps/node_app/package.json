@@ -4,11 +4,11 @@
     "version": "1.0.0",
     "description": "example package for demo",
     "main": "server.js",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/lynnlangit" },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/lynnlangit"
+    },
     "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     }
-  }
-
-  
+}
