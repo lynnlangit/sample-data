@@ -1,14 +1,14 @@
 {
-    "name": "docker-test",
+    "name": "@lynnlangit/sample-data",
+    "repository": "git://github.com/lynnlangit/sample-data.git",
     "version": "1.0.0",
-    "description": "",
+    "description": "example package for demo",
     "main": "server.js",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-    
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     }
-  }
-
-  
+}
