@@ -21,3 +21,7 @@ Small datasets & files in many formats (including genomic file samples), used fo
 - Azure Open Datasets Catalog - https://azure.microsoft.com/en-us/services/open-datasets/catalog/
 - Microsoft Research Open Data - https://msropendata.com/
 
+#### General Cloud
+
+- DataHub Dataset Collections - https://datahub.io/collections
+
