@@ -1,6 +1,6 @@
 # Genomic Sample Data Links
 
-Public genomic data  
+Public genomic data links from AWS whitepaper  
 
 - Human genome reference 
   - HERE --> http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/chromFa.tar.gz
